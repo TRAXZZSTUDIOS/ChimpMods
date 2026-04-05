@@ -3,7 +3,7 @@
   "Objects": [
     {
       "Name": "Gorilly-005",
-      "Mesh": "https://github.com/TRAXZZSTUDIOS/ChimpMods/raw/refs/heads/main/Testy.fbx",
+      "Mesh": "https://raw.githubusercontent.com/TRAXZZSTUDIOS/ChimpMods/refs/heads/main/Gorilla.obj",
       "Texture": "https://raw.githubusercontent.com/TRAXZZSTUDIOS/ChimpMods/refs/heads/main/Gorilla_Base_color.png",
       "Color": [1, 1, 1, 1],
       "Position": [0, 0, 0],
